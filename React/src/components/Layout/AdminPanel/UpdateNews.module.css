@@ -1,0 +1,26 @@
+.form {
+  margin: 200px 0 100px 0;
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  gap: 20px;
+}
+
+.form input,
+.form button {
+  width: 600px;
+  padding: 10px;
+}
+
+.img {
+  width: 400px;
+}
+
+.deployed {
+  text-align: center;
+  color: green;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+}
