@@ -1,8 +1,8 @@
 <?php 
   class Database {
     // DB Params
-    private $host = 'localhost:3308';
-    private $db_name = 'reactmeals';
+    private $host = 'localhost';
+    private $db_name = 'MySQL';
     private $username = 'root';
     private $password = '';
     private $conn;
