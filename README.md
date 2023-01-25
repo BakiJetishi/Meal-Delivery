@@ -1,1 +1,1 @@
-React with PHP REST API
+React with PHP REST API & Auth
